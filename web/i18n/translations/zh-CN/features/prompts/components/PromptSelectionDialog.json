@@ -1,0 +1,20 @@
+{
+  "Add inline prompt reference": "添加内联提示词引用",
+  "Referenced prompts are dynamically resolved and inserted when fetched via API/SDK. This enables modular design—create complex prompts from reusable, independently maintained components.": "引用的提示词在通过 API/SDK 获取时会动态解析和插入。这实现了模块化设计——从可重用、独立维护的组件创建复杂提示词。",
+  "Prompt name": "提示词名称",
+  "Select a text prompt": "选择文本提示词",
+  "Only text prompts can be referenced inline.": "只有文本提示词可以内联引用。",
+  "Reference by": "引用方式",
+  "Select link type": "选择链接类型",
+  "Label": "标签",
+  "Version": "版本",
+  "Select a version": "选择版本",
+  "Select a label": "选择标签",
+  "Tag preview": "标签预览",
+  "This tag will be inserted into the prompt content.": "此标签将插入到提示词内容中。",
+  "This tag will be copied to clipboard to be then inserted into the prompt": "此标签将复制到剪贴板，然后插入到提示词中",
+  "Cancel": "取消",
+  "Insert": "插入",
+  "Copy and close": "复制并关闭",
+  "Open prompt:": "打开提示词："
+}

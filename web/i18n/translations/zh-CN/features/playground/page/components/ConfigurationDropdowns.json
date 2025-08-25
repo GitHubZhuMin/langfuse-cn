@@ -1,0 +1,15 @@
+{
+  "Tools": "工具",
+  "Configure tools for your model to use.": "配置模型要使用的工具。",
+  "No tools attached.": "未附加工具。",
+  "Schema": "模式",
+  "Structured Output": "结构化输出",
+  "Configure JSON schema for structured output.": "配置结构化输出的 JSON 模式。",
+  "No schema provided.": "未提供模式。",
+  "Variables": "变量",
+  "Vars": "变量",
+  "Variables & Message Placeholders": "变量和消息占位符",
+  "Configure variables and message placeholders for your prompts.": "为您的提示词配置变量和消息占位符。",
+  "Message Placeholders": "消息占位符",
+  "No variables or message placeholders defined.": "未定义变量或消息占位符。"
+}

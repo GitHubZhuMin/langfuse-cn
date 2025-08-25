@@ -1,0 +1,13 @@
+{
+  "Get Started with Scores": "开始使用评分",
+  "Scores allow you to evaluate the quality/safety of your LLM application through user feedback, model-based evaluations, or manual review. Scores can be used programmatically via the API and SDKs to track custom metrics.": "评分允许您通过用户反馈、基于模型的评估或人工审查来评估 LLM 应用程序的质量/安全性。评分可以通过 API 和 SDK 以编程方式使用来跟踪自定义指标。",
+  "Collect user feedback": "收集用户反馈",
+  "Gather thumbs up/down feedback from users to identify high and low quality outputs": "收集用户的点赞/点踩反馈以识别高质量和低质量输出",
+  "Run model-based evaluations": "运行基于模型的评估",
+  "Use LLMs to automatically evaluate your application's outputs": "使用 LLM 自动评估您的应用程序输出",
+  "Track quality metrics": "跟踪质量指标",
+  "Monitor quality metrics over time to identify trends and issues": "随时间监控质量指标以识别趋势和问题",
+  "Use custom metrics": "使用自定义指标",
+  "Langfuse's scores are flexible and can be used to track any metric that's associated with an LLM application": "Langfuse 的评分很灵活，可用于跟踪与 LLM 应用程序相关的任何指标",
+  "Learn More": "了解更多"
+}

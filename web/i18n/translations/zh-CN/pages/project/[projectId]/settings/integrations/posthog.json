@@ -1,0 +1,15 @@
+{
+  "PostHog Integration": "PostHog 集成",
+  "Settings": "设置",
+  "Integration Docs ↗": "集成文档 ↗",
+  "We have teamed up with": "我们与",
+  "(OSS product analytics) to make Langfuse events/metrics available in\n        your PostHog dashboards. Upon activation, all historical data from your\n        project will be synced. After the initial sync, new data is\n        automatically synced every hour to keep your PostHog dashboards up to\n        date.": "（开源产品分析工具）合作，使 Langfuse 事件/指标可在您的 PostHog 仪表板中查看。激活后，您项目的所有历史数据将被同步。初始同步完成后，新数据将每小时自动同步一次，以确保您的 PostHog 仪表板保持最新状态。",
+  "You current role does not grant you access to these settings, please\n          reach out to your project admin or owner.": "您当前的权限无法访问这些设置，请联系您的项目管理员或所有者。",
+  "Data synced until:": "数据同步至：",
+  "Never (pending)": "从未（待处理）",
+  "Posthog Hostname": "Posthog 主机名",
+  "Posthog Project API Key": "Posthog 项目 API 密钥",
+  "Enabled": "已启用",
+  "Save": "保存",
+  "Reset": "重置"
+}

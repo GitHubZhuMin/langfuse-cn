@@ -1,0 +1,15 @@
+{
+  "Get Started with Sessions": "开始使用会话",
+  "Sessions allow you to group related traces together, such as a conversation or thread. Use sessions to track interactions over time and analyze conversation/thread flows.": "会话允许您将相关追踪分组在一起，例如对话或线程。使用会话来跟踪随时间的交互并分析对话/线程流程。",
+  "Group related traces": "分组相关追踪",
+  "Sessions allow you to group related traces, such as a conversation or thread, for better organization and analysis": "会话允许您将相关追踪分组，例如对话或线程，以便更好地组织和分析",
+  "Track user interactions": "跟踪用户交互",
+  "Monitor how users interact with your application over time": "监控用户如何随时间与您的应用程序交互",
+  "Analyze conversation flows": "分析对话流程",
+  "Understand the complete flow of multi-turn conversations": "了解多轮对话的完整流程",
+  "Session-level metrics": "会话级指标",
+  "Get aggregated metrics for entire sessions, including costs and token usage": "获取整个会话的聚合指标，包括成本和令牌使用量",
+  "To start using sessions, you need to add a `sessionId` to your traces. See": "要开始使用会话，您需要在追踪中添加 `sessionId`。请参阅",
+  "documentation": "文档",
+  "for more details.": "了解更多详情。"
+}

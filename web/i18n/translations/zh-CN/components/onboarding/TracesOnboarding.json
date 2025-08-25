@@ -1,0 +1,14 @@
+{
+  "Get Started with LLM Tracing": "开始使用 LLM 追踪",
+  "Traces allow you to track every LLM call and other relevant logic in your app/agent. Nested traces in Langfuse help to understand what is happening and identify the root cause of problems.": "追踪允许您跟踪应用程序/代理中的每个 LLM 调用和其他相关逻辑。Langfuse 中的嵌套追踪有助于了解正在发生的事情并识别问题的根本原因。",
+  "Full context capture": "完整上下文捕获",
+  "Track the complete execution flow including API calls, context, prompts, parallelism and more": "跟踪完整的执行流程，包括 API 调用、上下文、提示词、并行性等",
+  "Cost monitoring": "成本监控",
+  "Track model usage and costs across your application": "跟踪应用程序中的模型使用量和成本",
+  "Basis for evaluation": "评估基础",
+  "Add evaluation scores to identify issues and track metrics over time": "添加评估分数以识别问题并随时间跟踪指标",
+  "Open and Multi-modal": "开放和多模态",
+  "Langfuse traces can include images, audio, and other modalities. You can fully customize them to fit your needs": "Langfuse 追踪可以包括图像、音频和其他模态。您可以完全自定义它们以适应您的需求",
+  "Configure Tracing": "配置追踪",
+  "View Documentation": "查看文档"
+}

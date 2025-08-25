@@ -1,0 +1,15 @@
+{
+  "Get Started with User Tracking": "开始使用用户追踪",
+  "Correlate costs, evaluations and other LLM Application metrics to specific users. Start tracking users to better understand how they interact with your LLM applications.": "将成本、评估和其他 LLM 应用指标与特定用户关联。开始追踪用户以更好地了解他们如何与您的 LLM 应用交互。",
+  "Track user interactions": "追踪用户交互",
+  "Attribute data in Langfuse to specific users by adding a userId to your traces": "通过在您的追踪中添加 userId，将 Langfuse 中的数据归属到特定用户",
+  "Analyze user behavior": "分析用户行为",
+  "Understand how different users interact with your LLM applications": "了解不同用户如何与您的 LLM 应用交互",
+  "Filter by user segments": "按用户群体筛选",
+  "Compare performance across different user segments to identify patterns": "比较不同用户群体的性能以识别模式",
+  "Monitor usage metrics": "监控使用指标",
+  "Track token usage, costs, and other metrics on a per-user basis": "按用户追踪令牌使用量、成本和其他指标",
+  "To start tracking users, you need to add a `userId` to your traces. See": "要开始追踪用户，您需要在追踪中添加 `userId`。请参阅",
+  "documentation": "文档",
+  "for more details.": "了解更多详情。"
+}

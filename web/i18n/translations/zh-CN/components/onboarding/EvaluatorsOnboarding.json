@@ -1,0 +1,14 @@
+{
+  "Get Started with LLM-as-a-Judge Evaluations": "开始使用 LLM 作为评判者的评估",
+  "Create evaluation templates and evaluators to automatically score your traces with LLM-as-a-judge. Set up custom evaluation criteria and let AI help you measure the quality of your outputs.": "创建评估模板和评估器，使用 LLM 作为评判者自动为您的追踪评分。设置自定义评估标准，让 AI 帮助您衡量输出的质量。",
+  "Automate evaluations": "自动化评估",
+  "Use LLM-as-a-judge to automatically evaluate your traces without manual review": "使用 LLM 作为评判者自动评估您的追踪，无需人工审查",
+  "Measure quality": "衡量质量",
+  "Create custom evaluation criteria to measure the quality of your LLM outputs": "创建自定义评估标准来衡量您的 LLM 输出的质量",
+  "Scale efficiently": "高效扩展",
+  "Evaluate thousands of traces automatically with customizable sampling rates": "使用可自定义的采样率自动评估数千个追踪",
+  "Track performance": "跟踪性能",
+  "Monitor evaluation metrics over time to identify trends and improvements": "随时间监控评估指标以识别趋势和改进",
+  "Create Evaluator": "创建评估器",
+  "Learn More": "了解更多"
+}

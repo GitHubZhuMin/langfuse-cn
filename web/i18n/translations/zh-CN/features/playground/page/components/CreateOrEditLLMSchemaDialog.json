@@ -1,0 +1,18 @@
+{
+  "Description is required": "描述是必需的",
+  "Edit LLM Schema": "编辑 LLM 模式",
+  "Create LLM Schema": "创建 LLM 模式",
+  "Define a JSON Schema for structured outputs": "为结构化输出定义 JSON 模式",
+  "Name": "名称",
+  "Description": "描述",
+  "Describe the schema": "描述模式",
+  "JSON Schema": "JSON 模式",
+  "Define the structure of your schema using JSON Schema format.": "使用 JSON 模式格式定义模式的结构。",
+  "See JSON Schema examples here": "在此处查看 JSON 模式示例",
+  "Prettify": "美化",
+  "Parameters must be a valid JSON Schema object": "参数必须是有效的 JSON 模式对象",
+  "Note: Changes to schemas are reflected to all members of this project.": "注意：对模式的更改会反映给此项目的所有成员。",
+  "Delete": "删除",
+  "Cancel": "取消",
+  "Save": "保存"
+}

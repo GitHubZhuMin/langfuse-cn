@@ -1,0 +1,6 @@
+{
+  "Variable is in use": "变量正在使用中",
+  "Variable is not in use": "变量未使用",
+  "Delete variable": "删除变量",
+  "Variable name conflicts with placeholder. Names must be unique.": "变量名称与占位符冲突。名称必须唯一。"
+}

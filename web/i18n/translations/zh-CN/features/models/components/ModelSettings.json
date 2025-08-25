@@ -1,0 +1,4 @@
+{
+  "Models": "模型",
+  "A model represents a LLM model. It is used to calculate tokens and cost.": "模型代表一个 LLM 模型。它用于计算令牌数和成本。"
+}

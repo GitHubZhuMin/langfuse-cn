@@ -1,0 +1,13 @@
+{
+  "your Slack workspace": "您的Slack工作区",
+  "Slack Integration": "Slack集成",
+  "Settings": "设置",
+  "Test Integration": "测试集成",
+  "Test your Slack integration by sending a message\n                  to a channel.": "通过向频道发送消息来测试您的Slack集成。",
+  "Select Test Channel": "选择测试频道",
+  "Channel Information": "频道信息",
+  "Channel Name": "频道名称",
+  "Channel Type": "频道类型",
+  "Channel ID": "频道ID",
+  "Select a channel above to view its details and test message delivery.": "选择上面的频道以查看其详细信息并测试消息传递。"
+}

@@ -179,7 +179,7 @@ const nextConfig = {
   },
 
   // webassembly support for @dqbd/tiktoken
-  webpack(config, { isServer }) {
+  webpack(config, { isServer, dev }) {
     config.experiments = {
       asyncWebAssembly: true,
       layers: true,
@@ -187,6 +187,23 @@ const nextConfig = {
 
     // Exclude Datadog packages from webpack bundling to avoid issues
     config.externals.push("@datadog/pprof", "dd-trace");
+
+    // 编译时国际化loader
+    if (!dev && !isServer) {
+      const locale = process.env.NEXT_PUBLIC_LOCALE;
+      if (locale && locale !== "en") {
+        // 添加翻译loader到所有TypeScript/JavaScript文件
+        config.module.rules.push({
+          test: /\.(ts|tsx|js|jsx)$/,
+          exclude: /node_modules/,
+          use: [
+            {
+              loader: "./i18n/compiler/translation-loader.js",
+            },
+          ],
+        });
+      }
+    }
 
     return config;
   },

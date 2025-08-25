@@ -1,0 +1,18 @@
+{
+  "Experiment run triggered successfully": "实验运行成功触发",
+  "Waiting for experiment to complete...": "等待实验完成...",
+  "View experiment": "查看实验",
+  "Could not parse returned chat prompt to pretty ChatML": "无法将返回的聊天提示词解析为漂亮的 ChatML",
+  "Search versions": "搜索版本",
+  "Prompt": "提示词",
+  "Config": "配置",
+  "Text Prompt": "文本提示词",
+  "Python": "Python",
+  "JavaScript": "JavaScript",
+  "Get by label": "按标签获取",
+  "You can use as many labels as you'd like to identify different deployment targets": "您可以使用任意数量的标签来识别不同的部署目标",
+  "Get by version number, usually not recommended as it requires code changes to deploy new prompt versions": "按版本号获取，通常不推荐，因为部署新提示词版本需要代码更改",
+  "Initialize Langfuse client": "初始化 Langfuse 客户端",
+  "Get production prompt": "获取生产提示词",
+  "Initialize the Langfuse client": "初始化 Langfuse 客户端"
+}

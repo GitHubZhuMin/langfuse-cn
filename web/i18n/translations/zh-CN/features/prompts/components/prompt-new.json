@@ -1,0 +1,9 @@
+{
+  "Loading...": "加载中...",
+  "Prompts": "提示词",
+  "New prompt": "新建提示词",
+  "New version": "新版本",
+  "Create new prompt": "创建新提示词",
+  "Manage and version your prompts in Langfuse. Edit and update them via the UI and SDK. Retrieve the production version via the SDKs. Learn more in the docs.": "在 Langfuse 中管理和版本化您的提示词。通过 UI 和 SDK 编辑和更新它们。通过 SDK 检索生产版本。在文档中了解更多。",
+  "Prompts are immutable in Langfuse. To update a prompt, create a new\n          version.": "Langfuse 中的提示词是不可变的。要更新提示词，请创建新版本。"
+}

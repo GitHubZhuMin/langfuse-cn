@@ -1,0 +1,13 @@
+{
+  "Name": "名称",
+  "Versions": "版本",
+  "Type": "类型",
+  "Latest Version Created At": "最新版本创建时间",
+  "Number of Observations": "观察数量",
+  "Tags": "标签",
+  "Actions": "操作",
+  "Full Text": "全文",
+  "//folder": "文件夹",
+  "//text": "文本",
+  "//chat": "聊天"
+}

@@ -1,0 +1,19 @@
+{
+  "Description is required": "描述是必需的",
+  "Edit LLM Tool": "编辑 LLM 工具",
+  "Create LLM Tool": "创建 LLM 工具",
+  "Define a tool for LLM function calling": "为 LLM 函数调用定义工具",
+  "Name": "名称",
+  "Description": "描述",
+  "This description will be sent to the LLM to help it understand the tool's purpose and functionality.": "此描述将发送给 LLM，以帮助它理解工具的用途和功能。",
+  "Describe the tool's purpose and usage": "描述工具的用途和使用方法",
+  "Parameters (JSON Schema)": "参数 (JSON 模式)",
+  "Define the structure of your tool parameters using JSON Schema format.": "使用 JSON 模式格式定义工具参数的结构。",
+  "See JSON Schema examples here": "在此处查看 JSON 模式示例",
+  "Prettify": "美化",
+  "Parameters must be a valid JSON Schema object": "参数必须是有效的 JSON 模式对象",
+  "Note: Changes to tools are reflected to all members of this project.": "注意：对工具的更改会反映给此项目的所有成员。",
+  "Delete": "删除",
+  "Cancel": "取消",
+  "Save": "保存"
+}

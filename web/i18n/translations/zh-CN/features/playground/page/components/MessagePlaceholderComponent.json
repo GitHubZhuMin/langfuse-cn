@@ -1,0 +1,8 @@
+{
+  "Unnamed placeholder": "未命名占位符",
+  "Delete placeholder": "删除占位符",
+  "Input must be an array of objects": "输入必须是对象数组",
+  "All items must be objects": "所有项目必须是对象",
+  "Invalid JSON format": "无效的 JSON 格式",
+  "Placeholder name conflicts with variable. Names must be unique.": "占位符名称与变量冲突。名称必须唯一。"
+}

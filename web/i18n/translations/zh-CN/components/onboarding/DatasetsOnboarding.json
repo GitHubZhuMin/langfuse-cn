@@ -1,0 +1,14 @@
+{
+  "Get Started with Datasets": "开始使用数据集",
+  "Datasets in Langfuse are collections of inputs (and expected outputs) for your LLM application. You can for example use them to benchmark new releases before deployment to production.": "Langfuse 中的数据集是您的 LLM 应用程序的输入（和预期输出）集合。例如，您可以使用它们在部署到生产环境之前对新版本进行基准测试。",
+  "Continuous improvement": "持续改进",
+  "Create datasets from production edge cases to improve your application": "从生产边缘案例创建数据集以改进您的应用程序",
+  "Pre-deployment testing": "部署前测试",
+  "Benchmark new releases before deploying to production": "在部署到生产环境之前对新版本进行基准测试",
+  "Structured testing": "结构化测试",
+  "Run experiments on collections of inputs and expected outputs": "在输入和预期输出集合上运行实验",
+  "Custom workflows": "自定义工作流",
+  "Build custom workflows around your datasets via the API and SDKs, e.g. for fine-tuning, few-shotting": "通过 API 和 SDK 围绕您的数据集构建自定义工作流，例如用于微调、少样本学习",
+  "Create Dataset": "创建数据集",
+  "Learn More": "了解更多"
+}

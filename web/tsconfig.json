@@ -14,7 +14,7 @@
     },
     "strictNullChecks": true
   },
-  "exclude": ["node_modules", "sdk"],
+  "exclude": ["node_modules", "sdk", "i18n"],
   "include": [
     "src",
     "next-env.d.ts",

@@ -1,0 +1,7 @@
+{
+  "Delete version": "删除版本",
+  "Please confirm": "请确认",
+  "This action deletes the prompt version. Requests of version": "此操作将删除提示词版本。此提示词的版本",
+  "of this prompt will return an error.": "的请求将返回错误。",
+  "Delete Prompt Version": "删除提示词版本"
+}

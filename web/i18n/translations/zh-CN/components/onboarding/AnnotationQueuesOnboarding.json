@@ -1,0 +1,14 @@
+{
+  "Get Started with Annotation Queues": "开始使用标注队列",
+  "Annotation queues help you manage manual annotation/labeling for your LLM projects. Create queues, define annotation metrics, and track progress.": "标注队列帮助您管理 LLM 项目的手动标注/标记。创建队列、定义标注指标并跟踪进度。",
+  "Manage scoring workflows": "管理评分工作流",
+  "Create and manage annotation queues to streamline your scoring workflows": "创建和管理标注队列以简化您的评分工作流",
+  "Collaborate with annotators": "与标注者协作",
+  "Invite team members to annotate and evaluate your LLM outputs": "邀请团队成员标注和评估您的 LLM 输出",
+  "Track annotation metrics": "跟踪标注指标",
+  "Monitor annotation progress and quality metrics across your team": "监控团队中的标注进度和质量指标",
+  "Baseline evaluation efforts": "基线评估工作",
+  "Use annotation data as a baseline to evaluate your other evaluation metrics": "使用标注数据作为基线来评估您的其他评估指标",
+  "Create Annotation Queue": "创建标注队列",
+  "Learn More": "了解更多"
+}

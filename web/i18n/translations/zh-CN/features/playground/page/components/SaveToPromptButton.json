@@ -1,0 +1,10 @@
+{
+  "Save current configuration as a prompt template for reuse across your project": "保存当前配置作为提示词模板，以便在项目中重复使用",
+  "Save as prompt": "保存为提示词",
+  "Save as new prompt": "保存为新提示词",
+  "Search chat prompts...": "搜索聊天提示词...",
+  "No chat prompt found": "未找到聊天提示词",
+  "Prompts from the playground can only be saved to 'chat' prompts as they include multiple system/user messages.": "来自游乐场的提示词只能保存到 'chat' 提示词，因为它们包含多个系统/用户消息。",
+  "Save as new prompt version": "保存为新提示词版本",
+  "or": "或"
+}

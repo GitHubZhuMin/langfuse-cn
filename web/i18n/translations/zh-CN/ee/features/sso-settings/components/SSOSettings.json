@@ -1,0 +1,9 @@
+{
+  "SSO Configuration": "SSO 配置",
+  "Configure Single Sign-On (SSO) for your organization. SSO allows your team to use your existing identity provider for authentication, e.g. Okta, AzureAD/EntraID. Alternatively, you can enforce the use of a public provider such as Google, GitHub and Microsoft.": "为您的组织配置单点登录 (SSO)。SSO 允许您的团队使用现有的身份提供商进行身份验证，例如 Okta、AzureAD/EntraID。或者，您可以强制使用公共提供商，如 Google、GitHub 和 Microsoft。",
+  "Not available": "不可用",
+  "Enterprise SSO and SSO Enforcement are not available on your plan. Please upgrade to access this feature.": "企业 SSO 和 SSO 强制功能在您的计划中不可用。请升级以访问此功能。",
+  "Contact Langfuse Support": "联系 Langfuse 支持",
+  "To set up or change your SSO configuration, please reach out to": "要设置或更改您的 SSO 配置，请联系",
+  ".": "。"
+}

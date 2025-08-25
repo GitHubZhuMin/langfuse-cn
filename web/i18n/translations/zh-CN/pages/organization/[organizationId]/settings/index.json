@@ -1,0 +1,14 @@
+{
+  "General": "通用",
+  "Debug Information": "调试信息",
+  "Metadata": "元数据",
+  "Delete this organization": "删除此组织",
+  "Once you delete an organization, there is no going back. Please be certain.": "一旦删除组织，将无法恢复。请确认操作。",
+  "API Keys": "API密钥",
+  "Members": "成员",
+  "Organization Members": "组织成员",
+  "Billing": "账单",
+  "SSO": "SSO",
+  "Projects": "项目",
+  "Organization Settings": "组织设置"
+}

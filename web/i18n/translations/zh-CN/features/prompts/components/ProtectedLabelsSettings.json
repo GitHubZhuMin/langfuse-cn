@@ -1,0 +1,9 @@
+{
+  "Protected Prompt Labels": "受保护的提示词标签",
+  "Protected labels can only be modified by users with admin or owner access. This prevents other users from changing or removing these labels from prompts.": "受保护的标签只能由具有管理员或所有者访问权限的用户修改。这可以防止其他用户更改或删除提示词中的这些标签。",
+  "Are you sure you want to remove the protected label": "您确定要删除受保护的标签",
+  "Select or enter a label": "选择或输入标签",
+  "Search or enter a new label...": "搜索或输入新标签...",
+  "No label found": "未找到标签",
+  "Add": "添加"
+}

@@ -1,0 +1,14 @@
+{
+  "Get Started with Prompt Management": "开始使用提示词管理",
+  "Langfuse Prompt Management helps you centrally manage, version control, and collaboratively iterate on your prompts. Start using prompt management to improve your LLM application's performance and maintainability.": "Langfuse 提示词管理帮助您集中管理、版本控制和协作迭代您的提示词。开始使用提示词管理来改善您的 LLM 应用程序的性能和可维护性。",
+  "Decoupled from code": "与代码解耦",
+  "Deploy new prompts without application redeployment, making updates faster and easier": "无需重新部署应用程序即可部署新提示词，使更新更快更容易",
+  "Edit in UI or programmatically": "在 UI 中或编程方式编辑",
+  "Non-technical users can easily edit prompts in the UI. Developers can optionally update prompts programmatically via the API and SDKs": "非技术用户可以在 UI 中轻松编辑提示词。开发人员可以选择通过 API 和 SDK 以编程方式更新提示词",
+  "Performance optimized": "性能优化",
+  "Client-side caching prevents latency or availability issues for your applications": "客户端缓存防止应用程序出现延迟或可用性问题",
+  "Compare metrics": "比较指标",
+  "Track latency, cost, and evaluation metrics across different prompt versions": "跟踪不同提示词版本的延迟、成本和评估指标",
+  "Create Prompt": "创建提示词",
+  "Learn More": "了解更多"
+}

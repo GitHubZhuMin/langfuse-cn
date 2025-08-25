@@ -1,0 +1,5 @@
+{
+  "Prompts":  "提示词",
+  "New prompt": "新建提示词",
+  "Manage and version your prompts in Langfuse. Edit and update them via the UI and SDK. Retrieve the production version via the SDKs. Learn more in the docs.": "在Langfuse中管理和版本化您的提示词。通过用户界面和SDK进行编辑与更新。通过SDK获取生产环境版本。详情请查阅文档。"
+}

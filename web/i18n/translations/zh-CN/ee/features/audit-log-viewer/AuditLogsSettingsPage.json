@@ -1,0 +1,7 @@
+{
+  "Audit Logs": "审计日志",
+  "Audit logs are an Enterprise feature. Upgrade your plan to track all changes made to your project.": "审计日志是企业功能。升级您的计划以跟踪项目中发生的所有更改。",
+  "Access Denied": "访问被拒绝",
+  "Contact your project administrator to request access.": "请联系您的项目管理员申请访问权限。",
+  "Track who changed what in your project and when. Monitor settings,\n        configurations, and data changes over time. Reach out to the Langfuse\n        team if you require more detailed/filtered audit logs.": "跟踪谁在何时对您的项目进行了什么更改。监控设置、配置和数据随时间的变化。如果您需要更详细/过滤的审计日志，请联系 Langfuse 团队。"
+}

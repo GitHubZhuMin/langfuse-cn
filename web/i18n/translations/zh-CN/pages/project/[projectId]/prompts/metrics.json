@@ -1,0 +1,21 @@
+{
+  "Version": "版本",
+  "Labels": "标签",
+  "Median latency": "中位延迟",
+  "Median input tokens": "中位输入token数",
+  "Median output tokens":  "中位输出token数",
+  "Median cost": "中位成本",
+  "Generations count":  "生成次数",
+  "Trace Scores": "追踪评分",
+  "Generation Scores": "生成评分",
+  "Last used": "最后使用时间",
+  "The last time this prompt version was used in a generation. See docs for details on how to link generations/traces to prompt versions.": "该提示版本最后一次被用于生成的时间。有关如何将生成/追踪与提示版本关联的详细信息，请参阅文档。",
+  "First used": "首次使用时间",
+  "The first time this prompt version was used in a generation. See docs for details on how to link generations/traces to prompt versions.": "该提示版本第一次被用于生成的时间。有关如何将生成/追踪与提示版本关联的详细信息，请参阅文档。",
+  "Trace": "追踪",
+  "Generation": "生成",
+  "No linked generation yet": "尚无关联的生成",
+  "You can use this prompt within your application through the Langfuse SDKs and integrations. Refer to the documentation for more information.": "您可以通过Langfuse SDK和集成在应用程序中使用此提示。更多信息请参考文档。",
+  "Prompts": "提示",
+  "Metrics": "指标"
+}
